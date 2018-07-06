@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="655c4cd2-ab48-4ad7-95a6-498b891e8b13" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kele.gemspec" afterDir="false" />
-    </list>
+    <list default="true" id="655c4cd2-ab48-4ad7-95a6-498b891e8b13" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,12 +110,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530813838513</updated>
-      <workItem from="1530813839916" duration="5045000" />
+      <workItem from="1530813839916" duration="5432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5045000" />
+    <option name="totallyTimeSpent" value="5432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="420" y="37" width="1223" height="791" extended-state="0" />
